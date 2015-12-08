@@ -31,9 +31,12 @@ Nice and simple:
 All audio files must be in wav format. Store them in /audio_files within the project directory.
 
 The naming conventions for your audio files should be:
+
 For days:
+
 	'day-01.wav' through to 'day-31.wav'
 For months:
+
 	'month-01.wav' through to 'month-12.wav'
 
 You also need a generic messages described below:
